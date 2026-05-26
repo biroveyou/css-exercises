@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+.forward,
+.return {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+
+.forward {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.return {
+    background-color: #ffff00;
+}
