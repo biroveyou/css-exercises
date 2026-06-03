@@ -20,7 +20,6 @@ body {
 
 .footer {
   background: #eee;
-  height: 50px;
 }
 
 .content {
@@ -57,11 +56,13 @@ ul {
 }
 
 li {
-  padding: 12px;
+  margin: 12px 12px;
 }
 
 a {
+  font-size: 14px;
   text-decoration: none;
   color: #777777;
   font-weight: 500;
+
 }
